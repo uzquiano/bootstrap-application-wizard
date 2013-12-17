@@ -149,7 +149,7 @@ Wizard
         <td>Default submit url</td>
     </tr>
     <tr>
-        <td>increateHeight</td>
+        <td>increaseHeight</td>
         <td>integer</td>
         <td>0</td>
         <td>Deprecated</td>
